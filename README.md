@@ -50,7 +50,7 @@ you compile the source code.
 
 The output should be the following:
 ```
-Let's get things started.
+Let's get the passwords. 
 joe's password is 'December'
 alice's password is 'tfosorciM'
 mary's password is 'Monday'
