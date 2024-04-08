@@ -69,7 +69,7 @@ public class DictionaryAttack {
 	
 	public static void main(String[] args) throws Exception {
 		//Notify the user the program is starting.
-		System.out.println("Let's get things started.");
+		System.out.println("Let's get the passwords.");
 		
 		//Load the provided password file into stream and buffer
         File passwords_file = new File("/Users/nicolas/Documents/eclipseworkspace/dictionaryattack/src/password.txt");
