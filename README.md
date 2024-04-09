@@ -1,6 +1,6 @@
 # Dictionary Attack
 This repository contains a simple example of a dictionary attack coded in Java.
-
+It is edited by Brooke Carlisle.
 ## Description of Repository Content
 
 Here are the files you can find in this repository:
